@@ -1,4 +1,12 @@
+Listado de temas para la Práctica 2 de la materia Sistemas de Control de Versiones:
+------------------------------------------
+
 Tema 1. Git
 Tema 2. SVN
 Tema 3. Mercurial
 Tema 4. Monotone
+
+------------------------------------------
+Elaborado por:
+★ Crespo Morales Itzamar
+★ Cruz Roque Ana Lilia
